@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/doyinflix/static/css/main.970fca23.chunk.css",
+    "main.js": "/doyinflix/static/js/main.4dcecae3.chunk.js",
+    "main.js.map": "/doyinflix/static/js/main.4dcecae3.chunk.js.map",
+    "runtime-main.js": "/doyinflix/static/js/runtime-main.bb121611.js",
+    "runtime-main.js.map": "/doyinflix/static/js/runtime-main.bb121611.js.map",
+    "static/js/2.42348fcb.chunk.js": "/doyinflix/static/js/2.42348fcb.chunk.js",
+    "static/js/2.42348fcb.chunk.js.map": "/doyinflix/static/js/2.42348fcb.chunk.js.map",
+    "static/js/3.31f05708.chunk.js": "/doyinflix/static/js/3.31f05708.chunk.js",
+    "static/js/3.31f05708.chunk.js.map": "/doyinflix/static/js/3.31f05708.chunk.js.map",
+    "index.html": "/doyinflix/index.html",
+    "static/css/main.970fca23.chunk.css.map": "/doyinflix/static/css/main.970fca23.chunk.css.map",
+    "static/js/2.42348fcb.chunk.js.LICENSE.txt": "/doyinflix/static/js/2.42348fcb.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/doyinflix/static/media/PlusJakartaSans-Regular.78fdc9aa.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bb121611.js",
+    "static/js/2.42348fcb.chunk.js",
+    "static/css/main.970fca23.chunk.css",
+    "static/js/main.4dcecae3.chunk.js"
+  ]
+}
