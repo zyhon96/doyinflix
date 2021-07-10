@@ -1,0 +1,57 @@
+.film {
+  margin: 0 auto;
+  padding: 1em 0;
+ width: 80%;
+}
+
+.film-box {
+  margin: 0 .5em .5em 0;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  background-color: #0E1C36;
+  border-radius: 5%;
+
+}
+
+.film-box > .div1{
+    width: 500px;
+    height: 750px;
+}
+
+.film-box > .div1 > img {
+
+  object-fit: cover;
+  border-radius: 5%;
+
+}
+
+.film-box > .div2{
+   width: 75%;
+   padding: 30px;
+   color: white;
+   font-size: 22px;
+   font-family: 'JakartaRegular';
+}
+
+.div2 > .quality{
+  font-size: 1rem;
+  }
+  
+  .div2 > .quality2{
+    font-size: 0.8rem;
+    }
+
+    .div2 > .download{
+      font-size: 1rem;
+      margin-right: 5px;
+      }
+
+.div2 > .description{
+  font-size: 1.1rem;
+}
+
+.div2 > h3{
+  margin-top: 5px;
+  margin-bottom: 3px;
+}

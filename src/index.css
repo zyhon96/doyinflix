@@ -1,13 +1,25 @@
-body {
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-}
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+@font-face {
+  font-family: "JakartaBold";
+  src: url(./fonts/PlusJakartaSans-Bold.ttf);
+}
+@font-face {
+  font-family: "JakartaExtraBold";
+  src: url(./fonts/PlusJakartaSans-ExtraBold.ttf);
+}
+@font-face {
+  font-family: "JakartaExtraLight";
+  src: url(./fonts/PlusJakartaSans-ExtraLight.ttf);
+}
+@font-face {
+  font-family: "JakartaLight";
+  src: url(./fonts/PlusJakartaSans-Light.ttf);
+}
+@font-face {
+  font-family: "JakartaMedium";
+  src: url(./fonts/PlusJakartaSans-Medium.ttf);
+}
+@font-face {
+  font-family: "JakartaRegular";
+  src: url(./fonts/PlusJakartaSans-Regular.ttf);
 }
